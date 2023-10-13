@@ -1,1 +1,3 @@
 # otus-cpp-basic
+
+#OTUS C++ BASIC COURSE HOMEWORK DIRECTORY
