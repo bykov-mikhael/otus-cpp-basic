@@ -4,9 +4,3 @@
 
 #клонирование репозитория из github в локальную папку
 git clone git@github.com:bykov-mikhael/otus-cpp-basic-ls001.git
-
-git status
-
-git commit -am "text"
-
-git push
