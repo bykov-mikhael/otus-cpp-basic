@@ -4,3 +4,9 @@
 
 #клонирование репозитория из github в локальную папку
 git clone git@github.com:bykov-mikhael/otus-cpp-basic-ls001.git
+
+#коммит изменений
+git commit -am "text"
+
+#добавление в репозиторий новых файлов или директорий
+git add * или *.*
