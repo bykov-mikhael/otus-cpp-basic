@@ -10,3 +10,5 @@ git status
 git commit -am "text"
 
 git push
+
+git clone git@github.com:bykov-mikhael/otus-cpp-basic-ls001.git
